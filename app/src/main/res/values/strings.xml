@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetofitApp</string>
+    <string name="get_list_resources">Get\nlist resources</string>
+    <string name="create_new_user">Create\nnew user</string>
+    <string name="get_user_list">Get\nuser list</string>
+    <string name="error">Error :(</string>
+    <string name="clear_screen">Wyczyść\nekran</string>
+</resources>
